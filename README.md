@@ -54,4 +54,19 @@ It allows users to read books, listen to audiobooks, download PDFs, manage their
 | **Provider / ValueNotifier** | State Management                  |
 | **Dio + OpenFilex**          | Download & Open PDFs              |
 
+## 📱 Download APK (Live Demo)
+
+Try the app on your Android device:
+
+👉 **[Download APK](https://github.com/<pratiksha04th>/<repo>/releases/download/v1.0.0/app-release.apk)**
+
+> No Google Play required — download the APK directly and install.
+
+---
+
+### 📦 How to Install
+1. Download the APK file from the link above  
+2. Open it on your Android device  
+3. Allow "Install from Unknown Sources" if prompted  
+4. Launch **KitabCorner** and enjoy! 🎉
 

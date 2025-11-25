@@ -4,16 +4,24 @@ KitabCorner is a beautifully designed ebook + audiobook mobile application built
 It allows users to read books, listen to audiobooks, download PDFs, manage their personal library, and enjoy a smooth modern UI.
 
 # 👤 User Features
+Email & Password Authentication (Firebase Auth)
 
-** Email & Password Authentication (Firebase Auth)
-**Beautiful Home UI with book categories
-**Read books inside the built-in reader
-Listen to audiobooks with a modern audio player
-Download books as PDF for offline use
-Add / Remove books from personal Library (saved permanently in Firestore)
+Beautiful Home UI with book categories
+
+Built-in PDF Reader for reading books
+
+Audiobook Player with modern controls
+
+PDF Download for offline access
+
+Add / Remove books from personal library (saved permanently in Firestore)
+
 Profile screen with avatar + username
-Update display picture (syncs across the app)
-Smooth animations & gradient UI
+
+Upload / update profile picture (auto updates across app)
+
+Smooth animations and gradient UI
+
 
 # 🔐 Admin Features
 

@@ -26,7 +26,7 @@ It allows users to read books, listen to audiobooks, download PDFs, manage their
 
 # 🔐 Admin Features
 
-*Admin-only book upload access
+* Admin-only book upload access
 
 # Firebase Integration
 

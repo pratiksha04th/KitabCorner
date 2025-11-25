@@ -5,9 +5,9 @@ It allows users to read books, listen to audiobooks, download PDFs, manage their
 
 # 👤 User Features
 
-Email & Password Authentication (Firebase Auth)
-Beautiful Home UI with book categories
-Read books inside the built-in reader
+** Email & Password Authentication (Firebase Auth)
+**Beautiful Home UI with book categories
+**Read books inside the built-in reader
 Listen to audiobooks with a modern audio player
 Download books as PDF for offline use
 Add / Remove books from personal Library (saved permanently in Firestore)

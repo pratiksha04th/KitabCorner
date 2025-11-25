@@ -5,40 +5,40 @@ It allows users to read books, listen to audiobooks, download PDFs, manage their
 
 # 👤 User Features
 
-Email & Password Authentication (Firebase Auth)
+* Email & Password Authentication (Firebase Auth)
 
-Beautiful Home UI with book categories
+* Beautiful Home UI with book categories
 
-Built-in PDF Reader for reading books
+* Built-in PDF Reader for reading books
 
-Audiobook Player with modern controls
+* Audiobook Player with modern controls
 
-PDF Download for offline access
+* PDF Download for offline access
 
-Add / Remove books from personal library (saved permanently in Firestore)
+* Add / Remove books from personal library (saved permanently in Firestore)
 
-Profile screen with avatar + username
+* Profile screen with avatar + username
 
-Upload / update profile picture (auto updates across app)
+* Upload / update profile picture (auto updates across app)
 
-Smooth animations and gradient UI
+* Smooth animations and gradient UI
 
 
 # 🔐 Admin Features
 
-Admin-only book upload access
+*Admin-only book upload access
 
-Firebase Integration
+# Firebase Integration
 
-Authentication
+* Authentication
 
-Firestore Database
+* Firestore Database
 
-Firebase Storage
+* Firebase Storage
 
-Secure Firestore rules for admin-controlled uploads
+*Secure Firestore rules for admin-controlled uploads
 
-Cloud Functions for sending admin PIN via email
+*Cloud Functions for sending admin PIN via email
 
 # 🛠️ Tech Stack
 

@@ -58,7 +58,7 @@ It allows users to read books, listen to audiobooks, download PDFs, manage their
 
 Try the app on your Android device:
 
-👉 **[Download APK](https://github.com/<pratiksha04th>/<repo>/releases/download/v1.0.0/app-release.apk)**
+👉 **[Download APK](https://github.com/pratiksha04th/KitabCorner/releases/download/v1.0.0/app-release.apk)**
 
 > No Google Play required — download the APK directly and install.
 
